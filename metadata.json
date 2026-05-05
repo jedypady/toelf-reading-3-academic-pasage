@@ -1,0 +1,5 @@
+{
+  "name": "TOEFL: Read an Academic Passage Practice (Reading Task 3)",
+  "description": "An application to practice for the TOEFL academic reading section. It generates a university-level passage and five multiple-choice questions with detailed answer explanations using AI.",
+  "requestFramePermissions": []
+}
